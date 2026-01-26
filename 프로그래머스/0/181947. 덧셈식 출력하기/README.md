@@ -1,10 +1,10 @@
 # [level 0] 덧셈식 출력하기 - 181947 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947?language=javascript) 
 
 ### 성능 요약
 
-메모리: 7.35 MB, 시간: 17.31 ms
+메모리: 31.6 MB, 시간: 63.60 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 04일 21:54:46
+2026년 01월 26일 23:22:27
 
 ### 문제 설명
 
